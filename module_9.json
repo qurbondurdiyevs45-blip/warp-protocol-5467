@@ -1,0 +1,15 @@
+{
+  "name": "warp-protocol-5467",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 1454,
+    "createdAt": "2026-07-11T14:56:13.354Z"
+  }
+}
